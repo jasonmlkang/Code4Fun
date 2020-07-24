@@ -3,7 +3,7 @@
 Source from [GeeksForGeeks](https://www.geeksforgeeks.org/length-of-the-longest-subarray-with-only-even-elements/)
 
 Given an array arr[]. The task is to find the length of the longest subarray of arr[] such that it contains
-only even elements.
+only even elements (i.e. element of even value).
 
 ```
 Input : arr[] = { 5, 2, 4, 7 }
